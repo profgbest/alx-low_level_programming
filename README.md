@@ -1,1 +1,1 @@
-Recursion
+Static libraries tasks
