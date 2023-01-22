@@ -1,1 +1,1 @@
-Static libraries tasks
+Structures typedef
